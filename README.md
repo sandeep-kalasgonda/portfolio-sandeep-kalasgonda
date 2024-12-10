@@ -50,7 +50,7 @@ npm run preview
 
 ## Authors
 
-👤 **Rupinder Singh**
+👤 **Sandeep Kalasgonda**
 
 ## Feedback and Contributions
 
